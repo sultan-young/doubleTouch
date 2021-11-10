@@ -1,0 +1,22 @@
+{
+  "name": "double_touch",
+  "version": "0.0.1-beta",
+  "description": "移动端手指移动,缩放手势库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzl1050462990/doubleTouch.git"
+  },
+  "keywords": [
+    "touch"
+  ],
+  "author": "sultan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yzl1050462990/doubleTouch/issues"
+  },
+  "homepage": "https://github.com/yzl1050462990/doubleTouch#readme"
+}
