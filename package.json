@@ -1,6 +1,6 @@
 {
   "name": "double_touch",
-  "version": "0.0.1-beta",
+  "version": "0.0.2-beta",
   "description": "移动端手指移动,缩放手势库",
   "main": "index.js",
   "scripts": {
